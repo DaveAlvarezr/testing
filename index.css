@@ -19,6 +19,11 @@ h1 {
     color: white;
 }
 
+h2 {
+    color: white;
+}
+
+
 img {
     background-image: url("img/pngegg.png");
     background-size: 450px 450px;
