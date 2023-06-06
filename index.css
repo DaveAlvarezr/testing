@@ -1,12 +1,13 @@
 body {
     background: url("img/pexel.jpg");
+    background-size: 100%;
 }
 
 .container {
     display: flex;
+    flex-direction: column;
     align-content: center;
     justify-items: center;
-    
 }
 
 h1 {
