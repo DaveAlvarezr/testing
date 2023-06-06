@@ -17,5 +17,6 @@ h1 {
 img {
     width: 500px;
     height: 500px;
-    box-shadow: inset 15px 15px 10px 5px;
+    border-radius: 50%;
+    box-shadow: inset -15px 15px 10px 5px;
 }
