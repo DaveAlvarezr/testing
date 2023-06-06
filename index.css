@@ -4,6 +4,7 @@ body {
 }
 
 .container {
+    background-color: rgba(0, 0, 0, 0.478);
     margin-top: 18.75rem;
     display: flex;
     flex-direction: column;
